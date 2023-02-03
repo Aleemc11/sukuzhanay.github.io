@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christian Sucuzhanay Arévalo</h1>
+<h1 align="center">Hi 👋, I'm  Alejandra Montes de Oca </h1>
 <h3 align="center">BI & Big Data Engineer | Data Science</h3>
 
 - 🔭 I’m currently working at **Universidad Europea** as Assistant Professor
